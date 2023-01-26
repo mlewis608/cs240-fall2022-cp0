@@ -1,2 +1,2 @@
 # cs240-Fall2022-cp0
-CS240 FALL 2022 Coding Project 0
+CS240 SPRING 2023 Coding Project 0
